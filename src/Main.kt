@@ -26,7 +26,6 @@ object postList {
 
 
 fun main() {
-    //println(postList.allPosts)
 
     //делаем функцию joinToString сами
     var allContent: String = ""
@@ -114,5 +113,4 @@ fun main() {
             }
                 .get(0)
         }")
-
 }
